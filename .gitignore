@@ -1,2 +1,9 @@
 cmake-build-debug
 .idea
+.vscode
+build
+
+tests
+node_modules
+package*.json
+jest.config.js
