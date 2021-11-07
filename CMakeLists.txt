@@ -10,4 +10,7 @@ add_subdirectory(firstLibCall)
 add_subdirectory(matrixLib)
 add_subdirectory(matrixApp)
 
-add_subdirectory(firstClass)
+add_subdirectory(lab4Struct)
+add_subdirectory(lab4Class)
+add_subdirectory(lab4Constructor)
+add_subdirectory(lab4Destructor)
