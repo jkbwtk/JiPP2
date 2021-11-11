@@ -14,3 +14,6 @@ add_subdirectory(lab4Struct)
 add_subdirectory(lab4Class)
 add_subdirectory(lab4Constructor)
 add_subdirectory(lab4Destructor)
+
+add_subdirectory(lab5ClassCopy)
+add_subdirectory(lab5ConstStatic)
