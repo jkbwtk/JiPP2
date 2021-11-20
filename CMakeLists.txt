@@ -17,3 +17,6 @@ add_subdirectory(lab4Destructor)
 
 add_subdirectory(lab5ClassCopy)
 add_subdirectory(lab5ConstStatic)
+
+add_subdirectory(lab6FriendFunctions)
+add_subdirectory(lab6OperatorOverloading)
