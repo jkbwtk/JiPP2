@@ -20,3 +20,6 @@ add_subdirectory(lab5ConstStatic)
 
 add_subdirectory(lab6FriendFunctions)
 add_subdirectory(lab6OperatorOverloading)
+
+add_subdirectory(lab7Inheritance)
+add_subdirectory(lab7Polymorphism)
