@@ -23,3 +23,5 @@ add_subdirectory(lab6OperatorOverloading)
 
 add_subdirectory(lab7Inheritance)
 add_subdirectory(lab7Polymorphism)
+
+add_subdirectory(FinalProject)
